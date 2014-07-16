@@ -19,7 +19,7 @@ var showSchema = new mongoose.Schema({
   firstAired: Date,
   genre: [String],
   network: String,
-  overview: String,
+  overview: String,  //just testing git
   rating: Number,
   ratingCount: Number,
   status: String,
